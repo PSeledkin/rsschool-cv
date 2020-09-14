@@ -33,7 +33,8 @@ My goal is to acquire knowledge in java-script  front-end and to achieve full-st
 
 #### Professional  Experience
 
-**"NextSoft"**: DevOps (05.05.2014 - till now).
+**"EliLink"**: QA Engineer (05.05.2014 - 05.05.2017)
+**"NextSoft"**: DevOps (05.05.2017 - till now)
 
 
 #### Education
