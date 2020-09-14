@@ -1,1 +1,1 @@
-https://github.com/PSeledkin/rsschool-cv/cv 
+https://pseledkin.github.io/rsschool-cv/cv
