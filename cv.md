@@ -33,13 +33,13 @@ My goal is to acquire knowledge in java-script  front-end and to achieve full-st
 
 #### Professional  Experience
 
-**"EliLink"**: QA Engineer (05.05.2014 - 05.05.2017)
+**"EliLink"**: QA Engineer (05.05.2014 - 05.05.2017)  
 **"NextSoft"**: DevOps (05.05.2017 - till now)
 
 
 #### Education
 
--   Radioelectronics engineer, Belarusian State University of Informatics and Radioelectronics
+-   Radioelectronics engineer, Belarusian State University of Informatics and Radioelectronics  
 -   [ Java. Basics](https://stepik.org/course/187/syllabus)
 
 #### English
